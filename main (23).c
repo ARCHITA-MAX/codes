@@ -6,6 +6,7 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
+//TO CHECK IF ELEMENTS OF AN ARRAY ARE PALINDROME OR NOT
 #include <stdio.h>
 int isPalindrome(int num)
 {
