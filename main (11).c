@@ -31,10 +31,10 @@ int main()
     scanf("%d%d",&n1,&n2);
     pritnf("enter the elements of  arrays1");
     for(int i=0;i<n1;i++)
-    scanf("%d",&arr[i]);
+    scanf("%d",&arr1[i]);
     printf("enter the elements of array2");
     for(int j=0;j<n2;i++)
-    scanf("%d";&arr[j])
+    scanf("%d";&arr2[j])
     if (chkSubset(arr1, no1, arr2, no2))
         printf("The second array is a subset of the first array");
     else
