@@ -33,6 +33,8 @@ int main()
     {
         scanf("%d  ", arr[i]);
     }
+    print("enter the value of s");
+    scanf("%d",&s);
     check(arr, n, s);
     return 0;
 }
